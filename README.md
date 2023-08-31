@@ -44,3 +44,19 @@ Orders Resource:
 - POST /api/orders: Create a new order.
 - PUT /api/orders/{id}: Update an existing order by ID.
 - DELETE /api/orders/{id}: Delete an order by ID.
+
+# The Link to the Azure Portal
+https://portal.azure.com/#@nwuac.onmicrosoft.com/resource/subscriptions/3b005428-1014-49c6-96a0-a14ff8cfd7d7/resourceGroups/CMPG323_Project2_35689765/overview
+
+#Reference List
+
+ChatGpt.2023.How to create a connection string for Azure SQL Database.https://chat.openai.com/c/5dd23d.Date of access: 30 Aug.2023.
+
+Serkan Seker.2022.ASP.NET Core Web API Entity Framework Scaffolding.https://www.serkanseker.com/asp-net-core-web-api-entity-framework-scaffolding/.Date of access:30 Aug.2023.
+
+ChatGpt.2023.Entity Framework Scaffold Command Error.https://chat.openai.com/c/5dd23d.Date of access:30 Aug.2023.
+
+stackOverflow.2020.Unable to find provider assembly with name Microsoft.EntityFrameworkCore.SqlLite [duplicate].https://stackoverflow.com/questions/54657656/unable-to-find-provider-assembly-with-name-microsoft-entityframeworkcore-sqllite.Date of access:30 Aug.2023.
+
+stackOverflow.2023.NET Core 6 : to protect potentially sensitive information in your connection string.https://stackoverflow.com/questions/75439434/net-core-6-to-protect-potentially-sensitive-information-in-your-connection-st.Date of access:30 Aug.2023.
+
